@@ -48,3 +48,129 @@ while(True):
 	elif opt==4:
 		break
 
+Output:
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=1
+
+Enter Element to be inserted=100
+do you want to add more..<y/n>:y
+Enter Element to be inserted=350
+do you want to add more..<y/n>:y
+Enter Element to be inserted=Delhi
+do you want to add more..<y/n>:y
+Enter Element to be inserted=210
+do you want to add more..<y/n>:y
+Enter Element to be inserted=Chennai
+do you want to add more..<y/n>:y
+Enter Element to be inserted=05-1-2019
+do you want to add more..<y/n>:y
+Enter Element to be inserted=560
+do you want to add more..<y/n>:n
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=3
+
+Queue elemets are..
+100  350  Delhi  210  Chennai  05-1-2019  560  
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=2
+
+Deleted Element= 100
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=3
+
+Queue elemets are..
+350  Delhi  210  Chennai  05-1-2019  560  
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=2
+
+Deleted Element= 350
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=3
+
+Queue elemets are..
+Delhi  210  Chennai  05-1-2019  560  
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=2
+
+Deleted Element= Delhi
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=3
+
+Queue elemets are..
+210  Chennai  05-1-2019  560  
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=1
+
+Enter Element to be inserted=Mumbai
+do you want to add more..<y/n>:n
+
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=3
+
+Queue elemets are..
+210  Chennai  05-1-2019  560  Mumbai  
+Queue Operation
+______________________
+1.Adding element to a Queue
+2.Removing element from a queue
+3.Showing element of a queue
+4.Exit from queue
+Enter your option=4
+
